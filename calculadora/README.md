@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Hey, I made a (very) simple calculator just for training\
+Hey, this is simple calculator just for practice\
 \
 \
 Dependencies used in this proj:\
